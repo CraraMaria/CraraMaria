@@ -14,7 +14,7 @@ Sou apaixonada por tecnologia, inovação e aprendizado contínuo! Aqui você en
 
 ## Projetos em Destaque 💡
 - 🔗 [Protótipo de Previsão do Tempo no DF](https://github.com/CraraMaria/projeto-tempo-DF)
-- 🔗 [Projeto de Exercicios em Java]([https://github.com/CraraMaria/projeto-selecao-bois](https://github.com/CraraMaria/JavaExerciciosResolvidos))
+- 🔗 [Projeto de Exercicios em Java]([https://github.com/CraraMaria/projeto-selecao-bois](https://github.com/CraraMaria/JavaExerciciosResolvidos)
 
 ## Estatísticas do GitHub 📊
 ![Estatísticas do GitHub de CraraMaria](https://github-readme-stats.vercel.app/api?username=CraraMaria&show_icons=true&theme=dracula)
