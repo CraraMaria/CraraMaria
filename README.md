@@ -2,13 +2,9 @@
 
 
 # Olá! Eu sou a Maria Clara 👋
-- 👋🏻 Sou estudante de Ciência da Computação, apaixonada por programação e estou aprendendo a desenvolver em C, Java e Python.
+- 👋🏻 Sou estudante de Ciência da Computação na instituição IESB
 - 💻 Trabalho atualmente em projetos que envolvem o uso de Redes Neurais Artificiais para a previsão do tempo e análise de dados.
 
-🇺🇸
-
-- 👋🏻 I'm a Computer Science student, passionate about programming, currently learning C, Java, and Python.
-- 💻 I am working on projects that involve Artificial Neural Networks for weather forecasting and data analysis.
 
 ## 📚 Habilidades / Skills
 
@@ -18,6 +14,13 @@
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+</section>
+## 💽 IDE 
+
+<section align='left'><br>
+ 
  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
