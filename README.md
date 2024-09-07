@@ -1,5 +1,5 @@
 <section align="center">
-  <img src="./header.png" alt="CraraMaria Background" style="width:100%; height: auto;">
+  <img src="./images/coelho.png" alt="CraraMaria Background" style="width:100%; height: auto;">
 </section>
 
 
