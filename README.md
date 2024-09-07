@@ -52,7 +52,7 @@
 
 
 ## Projetos em Destaque 💡
-- 🔗 [Cuurriculo em phyton]([https://github.com/CraraMaria/projeto-tempo-DF](https://curriculodoc-clara.streamlit.app)) - Um protótipo de curriculo usando a biblioteca streamllit do phyton.
+- 🔗 [Cúrriculo em phyton](https://curriculodoc-clara.streamlit.app) - Um protótipo de curriculo usando a biblioteca streamllit do phyton.
 - 🔗 [Projeto de Exercícios em Java](https://github.com/CraraMaria/JavaExerciciosResolvidos) - Exercícios resolvidos em Java para praticar estruturas de controle e loops.
 
 ## Projetos Futuros 🚧
