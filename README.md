@@ -1,7 +1,7 @@
 <img align='center' src="./images/coelho.png" alt="CraraMaria Background"/>
 
-🇧🇷
 
+# Olá! Eu sou a Maria Clara 👋
 - 👋🏻 Sou estudante de Ciência da Computação, apaixonada por programação e estou aprendendo a desenvolver em C, Java e Python.
 - 💻 Trabalho atualmente em projetos que envolvem o uso de Redes Neurais Artificiais para a previsão do tempo e análise de dados.
 
@@ -82,7 +82,7 @@ Sou apaixonada por tecnologia, inovação e aprendizado contínuo! Aqui você en
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Hello](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Hello](https://media.giphy.com/media/rzhRWftV63NbdJEnPj/giphy.gif)
 
 
 ---
