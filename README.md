@@ -76,6 +76,8 @@
 
 </section>
 
+---
+
 ⚡ **Fato Curioso:** Quando não estou programando, adoro explorar novas receitas na cozinha! 🍳
 
 ---
