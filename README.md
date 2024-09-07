@@ -87,6 +87,9 @@ Sou apaixonada por tecnologia, inovação e aprendizado contínuo! Aqui você en
 
 ---
 
+
+
+
 ⚡ **Fato Curioso:** Quando não estou programando, adoro explorar novas receitas na cozinha! 🍳
 
 
