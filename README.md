@@ -4,7 +4,7 @@
 
 
 # Olá! Eu sou a Maria Clara 👋
-- 👋🏻 Sou estudante de Ciência da Computação na instituição IESB
+- 👋🏻 Sou estudante de Ciência da Computação na instituição [IESB](https://www.iesb.br)
 - 💻 Trabalho atualmente em projetos que envolvem o uso de Redes Neurais Artificiais para a previsão do tempo e análise de dados.
 
 
