@@ -1,8 +1,6 @@
 <section align="center">
-  <img src="./images/header.png" alt="CraraMaria Background" style="width:100%; height: auto;">
+  <img src="./header.png" alt="CraraMaria Background" style="width:100%; height: auto;">
 </section>
-
-[Ver Imagem](header.png)
 
 
 # Olá! Eu sou a Maria Clara 👋
