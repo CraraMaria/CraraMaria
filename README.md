@@ -2,6 +2,7 @@
   <img src="./images/header.png" alt="CraraMaria Background" style="width:100%; height: auto;">
 </section>
 
+[Ver Imagem](header.png)
 
 
 # Olá! Eu sou a Maria Clara 👋
