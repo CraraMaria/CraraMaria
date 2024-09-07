@@ -71,39 +71,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-clara-fontenele-silva-334a08292/)
 
 
+
 <section align='center'><br>
  
-![Hello](https://media.giphy.com/media/rzhRWftV63NbdJEnPj/giphy.gif)
-
-</section>
-
-
-
----
-
-
-
-
-⚡ **Fato Curioso:** Quando não estou programando, adoro explorar novas receitas na cozinha! 🍳
-
-
-<!--
-**CraraMaria/CraraMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div>
 <a href="https://github.com/CraraMaria">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraraMaria&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+</section>
+
+⚡ **Fato Curioso:** Quando não estou programando, adoro explorar novas receitas na cozinha! 🍳
+
+---
+
+<section align='center'><br>
+ 
+![Hello](https://media.giphy.com/media/rzhRWftV63NbdJEnPj/giphy.gif)
+
+</section>
