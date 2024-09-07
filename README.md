@@ -67,11 +67,6 @@
 
 </section>
 
-## Vamos nos conectar! 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-clara-fontenele-silva-334a08292/)
-
-
-
 <section align='center'><br>
  
 <div>
