@@ -1,4 +1,7 @@
-<img align='center' src="./images/coelho.png" alt="CraraMaria Background"/>
+<section align="center">
+  <img src="URL_DA_IMAGEM" alt="CraraMaria Background" style="width:100%; height: auto;">
+</section>
+
 
 
 # Olá! Eu sou a Maria Clara 👋
