@@ -46,7 +46,7 @@
 <a href="https://github.com/CraraMaria"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CraraMaria&theme=tokyonight&hide_border=true)" alt="CraraMaria's github stats" /></a>
 </section>
     
- ## ✉️ Contato / Contact
+## ✉️ Contato / Contact
 
 <section align='center'>
 <a href='https://www.linkedin.com/in/maria-clara-fontenele-silva-334a08292/' target='_blank' ><img align='center' alt='CraraMaria-Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
