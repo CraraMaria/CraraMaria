@@ -43,13 +43,6 @@
    </section>
 </div>
 
-
-## 📊 Status
-
-<section align='center'>
-<a href="https://github.com/CraraMaria"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CraraMaria&theme=tokyonight&hide_border=true)" alt="CraraMaria's github stats" /></a>
-</section>
-    
 ## ✉️ Contato / Contact
 
 <section align='center'>
@@ -59,10 +52,7 @@
   <a href="mailto:maria.silva27@iesb.edu.br" style="margin-left: 10px;">
     <img align='center' src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</section>
-
-
-
+</section>   
 
 ## Projetos em Destaque 💡
 - 🔗 [Cúrriculo em phyton](https://curriculodoc-clara.streamlit.app) - Um protótipo de curriculo usando a biblioteca streamllit do phyton.
@@ -70,6 +60,12 @@
 
 ## Projetos Futuros 🚧
 - [App de Gestão de Tarefas](#) - Um app que estou desenvolvendo para melhorar a produtividade.
+
+## 📊 Status
+
+<section align='center'>
+<a href="https://github.com/CraraMaria"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CraraMaria&theme=tokyonight&hide_border=true)" alt="CraraMaria's github stats" /></a>
+</section>
 
 
 ## Estatísticas do GitHub 📊
