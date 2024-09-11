@@ -39,7 +39,7 @@
 <div style="display: inline_block"><br>
   <section align='center'>
   <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="AI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ai/ai-original.svg"> 
+  <img align="center" alt="AI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artificialintelligence/artificialintelligence-original.svg"> 
    </section>
 </div>
 
