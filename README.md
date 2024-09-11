@@ -39,7 +39,7 @@
 <div style="display: inline_block"><br>
   <section align='center'>
   <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="AI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artificialintelligence/artificialintelligence-original.svg"> 
+  <img align="center" img alt="Artificial Intelligence" height="30" width="60" src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=00E676">
    </section>
 </div>
 
