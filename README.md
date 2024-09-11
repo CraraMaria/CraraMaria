@@ -23,7 +23,8 @@
   <img align="center" alt="Eclipse" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original-wordmark.svg">
   <img align="center" alt="Linux" height="50" width="50" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor">
   <img align="center" alt="Trello" height="50" width="50" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Trello" height="50" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Git Hub" height="50" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Replit" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original-wordmark.svg">
   
    </section>
 </div>
