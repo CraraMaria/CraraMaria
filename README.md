@@ -36,13 +36,13 @@
 
 ## 🌱 Aprendendo / Learning
 
-<section align='left'><br>
+<div style="display: inline_block"><br>
+  <section align='center'>
+  <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="AI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ai/ai-original.svg"> 
+   </section>
+</div>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-%2307405e.svg?style=for-the-badge&logo=ai&logoColor=white)
-
-</section>
 
 ## 📊 Status
 
