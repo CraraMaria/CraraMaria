@@ -3,7 +3,7 @@
 </section>
 
 # 🌎 Hello! I'm Clara 👋
-- 👋🏻 I'm a Computer Science student at IESB 📆 currently in my fourth semester.
+- 👋🏻 I'm a Computer Science student at [IESB](https://www.iesb.br) 📆 currently in my fourth semester.
 - 💻 I’m currently working on projects involving the use of Artificial Neural Networks for weather forecasting and data analysis.
 
 # 🟢🟡 Olá! Eu sou a Clara 👋
