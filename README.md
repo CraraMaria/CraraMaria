@@ -65,7 +65,7 @@
 - 🔗 [Cúrriculo em phyton](https://curriculodoc-clara.streamlit.app) - Um protótipo de curriculo usando a biblioteca streamllit do phyton.
 - 🔗 [Projeto de Exercícios em Java](https://github.com/CraraMaria/JavaExerciciosResolvidos) - Exercícios resolvidos em Java para praticar estruturas de controle e loops.
 
-## Projetos Futuros 🚧
+## Projetos Futuros 🚧 / Future Projects 🚧
 - [App de Gestão de Tarefas](#) - Um app que estou desenvolvendo para melhorar a produtividade.
 
 ## 📊 Status
