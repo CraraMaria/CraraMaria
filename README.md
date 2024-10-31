@@ -56,6 +56,9 @@
   <a href="mailto:maria.silva27@iesb.edu.br" style="margin-left: 10px;">
     <img align='center' src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+    <a href='[mailto:maria.silva27@iesb.edu.b](https://medium.com/@fontenelesilvamariaclara)' target='_blank' style="margin-left: 10px;">
+    <img align='center' src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Email">
+  </a>
 </section>   
 
 ## Projetos em Destaque 💡
