@@ -61,7 +61,7 @@
   </a>
 </section>   
 
-## Projetos em Destaque 💡
+## Projetos em Destaque 💡 / Projects Spotlight 💡
 - 🔗 [Cúrriculo em phyton](https://curriculodoc-clara.streamlit.app) - Um protótipo de curriculo usando a biblioteca streamllit do phyton.
 - 🔗 [Projeto de Exercícios em Java](https://github.com/CraraMaria/JavaExerciciosResolvidos) - Exercícios resolvidos em Java para praticar estruturas de controle e loops.
 
