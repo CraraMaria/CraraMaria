@@ -2,8 +2,11 @@
   <img src="./header.png" alt="CraraMaria Background" style="width:100%; height: auto;">
 </section>
 
+# 🌎 Hello! I'm Clara 👋
+- 👋🏻 I'm a Computer Science student at IESB 📆 currently in my fourth semester.
+- 💻 I’m currently working on projects involving the use of Artificial Neural Networks for weather forecasting and data analysis.
 
-# Olá! Eu sou a Maria Clara 👋
+# 🟢🟡 Olá! Eu sou a Clara 👋
 - 👋🏻 Sou estudante de Ciência da Computação na instituição [IESB](https://www.iesb.br) 📆 Quarto Semestre.
 - 💻 Trabalho atualmente em projetos que envolvem o uso de Redes Neurais Artificiais para a previsão do tempo e análise de dados.
 
