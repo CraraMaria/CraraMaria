@@ -4,7 +4,7 @@
 
 # 🌎 Hello! I'm Clara 👋
 - 👋🏻 I'm a Computer Science student at [IESB](https://www.iesb.br) 📆 currently in my fourth semester.
-- 💻 I’m currently working on projects involving the use of Artificial Neural Networks for weather forecasting and data analysis.
+- 💻 I’m currently working on Benu ERP.
 
 # 🟢🟡 Olá! Eu sou a Clara 👋
 - 👋🏻 Sou estudante de Ciência da Computação na instituição [IESB](https://www.iesb.br) 📆 Quarto Semestre.
