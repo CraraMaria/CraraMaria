@@ -68,7 +68,7 @@
 - 🔗 [Projeto de Exercícios em Java](https://github.com/CraraMaria/JavaExerciciosResolvidos) - Exercícios resolvidos em Java para praticar estruturas de controle e loops.
 
 ## Projetos Futuros 🚧 / Future Projects 🚧
-- [App de Gestão de Tarefas](#) - Um app que estou desenvolvendo para melhorar a produtividade.
+- [App de Gestão de Condomínio](#) - Um app que estou desenvolvendo para colocar em prática minhas habilidades de Java e banco de dados.
 
 ## 📊 Status
 
