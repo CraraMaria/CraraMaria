@@ -4,11 +4,13 @@
 
 # 🌎 Hello! I'm Clara 👋
 - 👋🏻 I'm a Computer Science student at [IESB](https://www.iesb.br) 📆 currently in my fourth semester.
-- 💻 I’m currently working on Benu ERP.
+- 💻 I currently work at [Benu ERP](https://benuerp.com) as Software Support, providing technical assistance, diagnosing issues, documenting solutions, and collaborating with development teams to enhance the ERP system.
+- 🎯 Objective: This experience has been preparing me to advance my career as a Developer, combining my academic background in Computer Science with hands-on technical support practice.
 
 # 🟢🟡 Olá! Eu sou a Clara 👋
 - 👋🏻 Sou estudante de Ciência da Computação na instituição [IESB](https://www.iesb.br) 📆 Quarto Semestre.
-- 💻 Trabalho atualmente na Benu ERP.
+- 💻 Trabalho atualmente na [Benu ERP](https://benuerp.com); Atuo como Suporte de Software, oferecendo assistência técnica, diagnosticando problemas, documentando soluções e colaborando com equipes de desenvolvimento para melhorar o sistema ERP.
+- 🎯 Objetivo: A experiência tem me preparado para avançar na carreira como Desenvolvedora, combinando minha formação em Ciência da Computação com prática no suporte técnico.
 
 
 ## 📚 Habilidades / Skills
