@@ -63,7 +63,8 @@
 </section>   
 
 ## Projetos em Destaque 💡 / Projects Spotlight 💡
-- 🔗 [Cúrriculo em phyton](https://curriculodoc-clara.streamlit.app) - Um protótipo de curriculo usando a biblioteca streamllit do phyton.
+- 🔗 [Cúrriculo em phyton](https://curriculodoc-clara.streamlit.app) - Um curriculo usando a biblioteca streamllit do phyton.
+- 🔗 [Portifólio](https://curriculodoc-clara.streamlit.app) - Um portifólio estilizado com css hospedado no GIT.
 - 🔗 [Projeto de Exercícios em Java](https://github.com/CraraMaria/JavaExerciciosResolvidos) - Exercícios resolvidos em Java para praticar estruturas de controle e loops.
 
 ## Projetos Futuros 🚧 / Future Projects 🚧
